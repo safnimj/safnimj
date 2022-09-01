@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safnimj
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning some new
+- 🌱 I’m currently learning something new
 - 💞️ I’m looking to collaborate on here
 - 📫 Reach me at instagram @safnimj
 
