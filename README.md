@@ -16,8 +16,8 @@
 - 🌱 I’m currently learning Something New
 - 💞️ I’m looking to collaborate on Here 
 - 📫 Reach me @safnimj or SAFNI mj
-- ⏰ Time to turn your boredom into a distant memory. Click here: <a href="https://mjsafni.github.io/snake-game/" target="_blank">Unleash the Snake Game</a>
-- 🎉 Curious about my 'boaring' portfolio? 🐖💼 <a href="https://mjsafni.github.io/portfolio-new/">Click here and let the fun begin! </a>📊
+- ⏰ Time to turn your boredom into a distant memory. Click here: <a href="https://safnimj.github.io/snake-game/" target="_blank">Unleash the Snake Game</a>
+- 🎉 Curious about my 'boaring' portfolio? 🐖💼 <a href="https://safnimj.github.io/portfolio-new/">Click here and let the fun begin! </a>📊
 </body> 
 
 <h3 align="left">Languages and Tools:</h3>
