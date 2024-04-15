@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/safnimj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="safnimj" height="30" width="40" /></a>
 </p>
 
-- 👋 Hi, I’m @mjsafni
+- 👋 Hi, I’m Safni
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning Something New
 - 💞️ I’m looking to collaborate on Here 
