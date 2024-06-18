@@ -11,13 +11,14 @@
 <a href="https://www.hackerrank.com/safnimj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="safnimj" height="30" width="40" /></a>
 </p>
 
-- 👋 Hi, I’m Safni
-- 👀 I’m interested in Technology 
-- 🌱 I’m currently learning Something New
-- 💞️ I’m looking to collaborate on Here 
-- 📫 Text me on <a href="https://wa.me/+94778759392">WhatsApp. </a>
-- ⏰ Time to turn your boredom into a distant memory. Click here: <a href="https://safnimj.github.io/snake-game/" target="_blank">Unleash the Snake Game</a>
-- 🎉 Curious about my 'boaring' portfolio? 🐖💼 <a href="https://safnimj.github.io/portfolio-new/">Click here and let the fun begin! </a>📊
+### 👋 Hi, I’m Safni
+- 👀 **Technology Enthusiast** - Passionate about exploring and mastering the latest in tech.
+- 🌱 **Continuous Learner** - Always on the lookout for something new to learn.
+- 💞️ **Collaboration Seeker** - Eager to collaborate on exciting projects right here.
+- 📫 **Let's Connect** - [Text me on WhatsApp](https://wa.me/+94778759392).
+- ⏰ **Banish Boredom** - [Unleash the Snake Game](https://safnimj.github.io/snake-game/).
+- 🎉 **Discover My 'Boaring' Portfolio** 🐖💼 - [Click here and let the fun begin!](https://safnimj.github.io/portfolio-new/) 📊
+
 </body> 
 
 <h3 align="left">Languages and Tools:</h3>
