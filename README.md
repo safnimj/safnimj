@@ -18,6 +18,7 @@
 - 📫 **Let's Connect** - [Text me on WhatsApp](https://wa.me/+94778759392).
 - ⏰ **Banish Boredom** - [Unleash the Snake Game](https://safnimj.github.io/snake-game/).
 - 🎉 **Discover My 'Boaring' Portfolio** 🐖💼 - [Click here and let the fun begin!](https://safnimj.github.io/portfolio-new/) 📊
+- ☕ **Support My Work** - [Buy Me a Coffee](https://buymeacoffee.com/safni)
 
 </body> 
 
